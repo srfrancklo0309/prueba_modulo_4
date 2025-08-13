@@ -1,0 +1,4 @@
+id_transaction_state,transaction_state
+1,pending
+2,failure
+3,complete
